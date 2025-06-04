@@ -8,6 +8,7 @@ Yuhao Xu, Tao Gu, Weifeng Chen, and Chengcai Chen. OOTDiffusion: Outfitting Fusi
   year={2024}
 }
 ```
+Original code can be found at https://github.com/levihsu/OOTDiffusion
 
 ## Installation
 ```
